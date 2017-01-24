@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="design pattern" />
+        <module name="strategy pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design pattern" target="1.5" />
+      <module name="pattern" target="1.5" />
+      <module name="strategy pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
