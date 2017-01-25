@@ -1,9 +1,9 @@
-package com.company.factorypattern;
+package factorypattern;
 
-import com.company.factorypattern.factories.Circle;
-import com.company.factorypattern.factories.Rectangle;
-import com.company.factorypattern.factories.Shape;
-import com.company.factorypattern.factories.Square;
+import factorypattern.factories.Circle;
+import factorypattern.factories.Rectangle;
+import factorypattern.factories.Shape;
+import factorypattern.factories.Square;
 
 /**
  * Created by anjalhussan on 1/14/17.

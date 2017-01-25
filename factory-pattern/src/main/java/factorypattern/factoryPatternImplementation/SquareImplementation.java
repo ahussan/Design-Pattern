@@ -1,7 +1,7 @@
-package com.company.factorypattern.factoryPatternDisplay;
+package factorypattern.factoryPatternImplementation;
 
-import com.company.factorypattern.ShapeFactory;
-import com.company.factorypattern.factories.Shape;
+import factorypattern.ShapeFactory;
+import factorypattern.factories.Shape;
 
 /**
  * Created by anjalhussan on 1/14/17.

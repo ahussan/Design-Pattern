@@ -1,4 +1,4 @@
-package com.company.factorypattern.factories;
+package factorypattern.factories;
 
 /**
  * Created by anjalhussan on 1/14/17.
